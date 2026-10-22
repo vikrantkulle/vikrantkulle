@@ -18,7 +18,7 @@
 [![Portfolio Website](https://img.shields.io/badge/🌐_Official_Website-vstechworks.co.in-0284c7?style=for-the-badge&logoColor=white)](https://vstechworks.co.in/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-vikrant--kulle-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-kulle)
 [![Direct Email](https://img.shields.io/badge/✉️_Direct_Email-vikrantkulle392000@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkulle392000@gmail.com)
-[![Status](https://img.shields.io/badge/🟢_Status-BUILDING & OPEN TO COLLABORATIONS-059669?style=for-the-badge)](mailto:vikrantkulle392000@gmail.com)
+[![Status](https://img.shields.io/badge/%F0%9F%9F%A2_Status-BUILDING_%26_OPEN_TO_COLLABORATIONS-059669?style=for-the-badge)](mailto:vikrantkulle392000@gmail.com)
 
 <br/>
 
