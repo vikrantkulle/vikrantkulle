@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://vstechworks.co.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=%E2%9C%A8+AI+Solutions+Engineer+%7C+Multi-Agent+Orchestration+(LangGraph+%26+MCP);%F0%9F%9A%80+Custom+Full-Stack+Platforms+(Next.js%2C+React%2C+FastAPI%2C+PostgreSQL);%F0%9F%9B%A1%EF%B8%8F+Enterprise+SDLC+Rigor+(Capgemini+%E2%80%A2+Hartford+Insurance+Guidewire);%F0%9F%94%8D+0-Hallucination+Guarantees%3A+Strict+Schema+Validation+%26+Testing" alt="Dynamic Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=%E2%9C%A8+AI+Solutions+Engineer+%7C+Multi-Agent+Orchestration+(LangGraph+%26+MCP);%F0%9F%9A%80+Custom+Full-Stack+Platforms+(Next.js%2C+React%2C+FastAPI%2C+PostgreSQL);%F0%9F%9B%A1%EF%B8%8F+Enterprise+SDLC+Rigor+(Mission-Critical+Core+Policy+Platforms);%F0%9F%94%8D+0-Hallucination+Guarantees%3A+Strict+Schema+Validation+%26+Testing" alt="Dynamic Typing Headline" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
 [![Portfolio Website](https://img.shields.io/badge/🌐_Official_Website-vstechworks.co.in-0284c7?style=for-the-badge&logoColor=white)](https://vstechworks.co.in/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-vikrant--kulle-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-kulle)
 [![Direct Email](https://img.shields.io/badge/✉️_Direct_Email-vikrantkulle392000@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkulle392000@gmail.com)
-[![Status](https://img.shields.io/badge/🟢_Client_Status-Open_for_Contracts_%26_Remote-059669?style=for-the-badge)](mailto:vikrantkulle392000@gmail.com)
+[![Status](https://img.shields.io/badge/🟢_Status-Available_for_Hire-059669?style=for-the-badge)](mailto:vikrantkulle392000@gmail.com)
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 I work with founders, growing businesses, and engineering leaders to turn business requirements into reliable software—from solution architecture and AI integration to testing, deployment, and ongoing improvement.
 
-I combine **3+ years of enterprise software engineering experience at Capgemini** (including mission-critical work on Hartford Insurance's Guidewire PolicyCenter platform) with hands-on development of commercial web applications, business automation pipelines, and stateful AI-powered solutions.
+I combine enterprise software engineering experience supporting mission-critical insurance underwriting and core policy platforms with hands-on development of commercial web applications, business automation pipelines, and stateful AI-powered solutions.
 
 #### 🎯 What I Bring to a Client Engagement:
 * **AI Engineering & Integration:** Stateful agent workflows (LangGraph), Model Context Protocol (MCP) tool binding, structured JSON outputs, retrieval-augmented generation (RAG), and cost/latency tracking.
@@ -256,15 +256,15 @@ flowchart TD
 
 ---
 
-### 🏢 Enterprise Software Engineering Experience
+### 🏢 Enterprise Software Engineering & Production Systems
 
-#### **Capgemini Technology Services**
-**Senior Software Engineer • Hartford Insurance Program (Guidewire PolicyCenter)**  
-*Sept 2023 – Present • Hyderabad, India*
+#### **Core Policy Administration & Mission-Critical Workflows**
+**Senior Software Engineer • Enterprise Insurance Systems**
 
-* Supported mission-critical policy administration lifecycles and business configuration changes on Hartford Insurance's Guidewire PolicyCenter platform.
-* Investigated complex production and development defects through structured root-cause analysis, log debugging, and functional testing across policy workflows and multi-tier integration touchpoints.
-* Collaborated closely with cross-functional developers, business analysts, QA teams, and client stakeholders in Agile ceremonies.
+* Supported mission-critical policy administration lifecycles and complex business-driven configuration changes on enterprise core platforms.
+* Investigated production and development defects through structured root-cause analysis, log debugging, and functional testing across core workflows and multi-tier integration touchpoints.
+* Executed defect resolution and regression verification, evaluating multi-tier impacts to ensure uninterrupted system stability across iterative releases.
+* Collaborated closely with cross-functional developers, business analysts, QA teams, and enterprise stakeholders in Agile/Scrum sprint ceremonies.
 * Upheld strict enterprise SDLC controls, release verification standards, code reviews, and technical documentation.
 
 ---

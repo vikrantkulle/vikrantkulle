@@ -92,7 +92,7 @@
     <text x="24" y="210" class="txt success">[✓]</text>
     <text x="48" y="210" class="txt info">Deterministic Execution:</text>
     <text x="235" y="210" class="txt highlight">Enterprise Mutations Verified</text>
-    <text x="465" y="210" class="txt info">(Capgemini / Hartford SDLC standards)</text>
+    <text x="465" y="210" class="txt info">(Enterprise SDLC &amp; QA Standards)</text>
   </g>
 
   <!-- Line 6: Ready Status -->
