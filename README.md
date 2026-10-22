@@ -1,116 +1,202 @@
-<div align="center">
-
 # Vikrant Kulle
-### **AI Solutions Engineer & Custom Software Architect**
-**Turning Complex Business Requirements into Reliable, Production-Ready Software & Agentic Workflows**
+### AI Solutions Engineer | Full-Stack Developer | Software Automation Architect
 
-[![Website](https://img.shields.io/badge/Website-vstechworks.co.in-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vstechworks.co.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikrant_Kulle-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-kulle)
-[![Email](https://img.shields.io/badge/Direct_Email-vikrantkulle392000@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkulle392000@gmail.com)
-[![Status](https://img.shields.io/badge/Availability-Open_to_Contracts_%26_Remote_Roles-10b981?style=for-the-badge)](mailto:vikrantkulle392000@gmail.com)
+**I build production-ready software, integrate AI into business workflows, and automate complex operations.**
 
-</div>
+I work with founders, growing businesses, and engineering teams to turn business requirements into reliable software—from solution architecture and AI integration to testing, deployment, and ongoing improvement.
 
----
+[Portfolio](https://vstechworks.co.in/) · [LinkedIn](https://linkedin.com/in/vikrant-kulle) · [Email](mailto:vikrantkulle392000@gmail.com)
 
-### 💡 Executive Summary & Value Proposition
-
-> *"I help founders, businesses, and engineering leaders build custom software, implement practical AI agent workflows, and automate operational bottlenecks—from requirements discovery to live production deployment."*
-
-I combine **3+ years of enterprise software engineering at Capgemini** (supporting Hartford Insurance's mission-critical Guidewire PolicyCenter platform) with hands-on full-stack development and practical agentic AI engineering.
-
-* **Practical AI Engineering (No Hallucination Trap):** Stateful multi-agent systems (LangGraph), Model Context Protocol (MCP) integrations, and RAG pipelines engineered with strict JSON schema validation, retry loops, and human-in-the-loop checkpoints.
-* **Enterprise SDLC & Mission-Critical Rigor:** Deep background in root-cause debugging, multi-tier impact analysis, regression testing, and high-reliability production deployments.
-* **Dual Engineering + Quality Mindset:** I don't just build features—I design for edge cases, error recovery, and automated verification (Playwright, API test suites).
-* **End-to-End Delivery Ownership:** Proven record taking ideas from initial concept to live cloud infrastructure (Next.js, FastAPI, Vercel, Cloudflare, Docker).
+**Open to:** Freelance Projects · Contract Engagements · Remote Engineering Roles
 
 ---
 
-### 🚀 Live Commercial Deliveries & Production Systems
+## Professional Profile
 
-Here are production systems I've architected and deployed for commercial clients:
+I combine enterprise software engineering experience at Capgemini, including work on Hartford Insurance's Guidewire PolicyCenter platform, with hands-on development of web applications, business automation systems, and AI-powered solutions.
 
-| Project | Category & Impact | Primary Tech Stack | Live Deployment |
-| :--- | :--- | :--- | :---: |
-| **Admissions Made Easy** | Student counseling & discovery platform guiding NEET/JEE aspirants through complex multi-quota counseling rules, cutoff analysis, and document validation. | Next.js, TypeScript, Tailwind CSS, REST APIs, Playwright | [🔗 Live Site](https://admissionsmadeeasy.in/) |
-| **Anmol Enterprises** | Commercial PWA storefront and wholesale order management system for an authorized regional McCain Foods distributor. Sub-second mobile catalog with offline caching. | Next.js, React, Progressive Web App (PWA), Tailwind CSS | [🔗 Live Site](https://anmolenterprisess.in/) |
-| **VS Techworks** | Venture platform and corporate client portal delivering custom web applications, workflow automation pipelines, and digital products. | React, Vite, Tailwind CSS, Cloudflare | [🔗 Live Site](https://vstechworks.co.in/) |
-| **Seema's Abacus Academy** | Academy management portal and student enrollment inquiry system supporting student profiles and course discovery for a 22+ year institution. | Responsive Web, JavaScript, UI Testing, Cloud Hosting | [🔗 Live Site](https://seemas-abacus-academy.in.net/) |
+My approach combines practical engineering, structured problem-solving, and quality assurance to deliver systems that are maintainable, testable, and ready for real-world use.
+
+**What I bring to a project**
+
+- **AI Engineering & Integration:** LLM-powered applications, tool calling, structured outputs, retrieval-augmented generation (RAG), and agent workflows.
+- **Custom Software Development:** Full-stack web applications, business portals, progressive web applications, and API-driven systems.
+- **Workflow Automation:** Replacing repetitive manual processes with reliable, traceable software workflows.
+- **Quality Engineering:** Automated UI and API testing, regression prevention, error handling, and production-readiness validation.
+- **End-to-End Delivery:** Requirements discovery, architecture, implementation, deployment, and technical documentation.
+
+## Selected Projects
+
+Production websites and commercial software projects developed for businesses and product initiatives.
+
+### 1. Admissions Made Easy
+**Education Technology · Admissions & Counselling Platform**
+
+Website: https://admissionsmadeeasy.in/
+
+A platform designed to help students navigate complex medical and engineering admissions through college discovery, cutoff analysis, counselling information, and digital support services.
+
+- Developed a digital platform for admissions-related information and student services.
+- Focused on simplifying information discovery and complex admission workflows.
+- Supported the delivery of student-facing features and online counselling experiences.
+
+**Technologies:** Next.js · TypeScript · Tailwind CSS · REST APIs · Playwright
+
+### 2. Anmol Enterprises
+**B2B Commerce · Progressive Web Application**
+
+Website: https://anmolenterprisess.in/
+
+A digital storefront and wholesale ordering solution for a regional frozen-food distribution business.
+
+- Built a mobile-oriented product discovery and ordering experience.
+- Focused on simplifying catalogue access and customer ordering workflows.
+- Designed the application around responsive layouts and progressive web capabilities.
+
+**Technologies:** Next.js · React · TypeScript · Tailwind CSS · PWA
+
+### 3. VS Techworks
+**Software Services · Digital Products & Automation**
+
+Website: https://vstechworks.co.in/
+
+The technology venture through which I develop custom software, business websites, digital products, and workflow automation solutions.
+
+- Deliver tailored software solutions for business requirements.
+- Develop digital platforms for service providers and commercial businesses.
+- Explore practical AI integrations and automation opportunities.
+
+**Technologies:** React · Vite · Tailwind CSS · Cloudflare
+
+### 4. Seema's Abacus Academy
+**Education · Website & Student Enquiries**
+
+Website: https://seemas-abacus-academy.in.net/
+
+A responsive digital presence for an established abacus education institution.
+
+- Structured educational content and course information.
+- Improved access to information for prospective students and parents.
+- Created a mobile-friendly experience for course discovery and enquiries.
+
+**Technologies:** JavaScript · Responsive Web Design · UI Testing · Cloud Hosting
 
 ---
 
-### 🧠 Agentic AI Architecture: Dual-Plane Orchestration
+## AI Engineering & System Architecture
 
-When engineering AI solutions for clients, I enforce a **strict architectural boundary** between probabilistic reasoning and deterministic execution:
+### Reliable AI Workflows, With Deterministic Controls
+
+I approach AI integration as a software engineering problem—not simply a prompt-writing exercise.
+
+The objective is to combine LLM reasoning with controlled tool execution, validated data contracts, observable workflows, and recoverable failures.
+
+**Reference architecture**
 
 ```mermaid
-flowchart LR
-    A[Business Trigger / User Request] --> B[Supervisor Agent]
-    subgraph Reasoning_Plane["Probabilistic Reasoning Plane"]
-        B --> C1[Planner Agent]
-        B --> C2[Execution Agent]
-        C1 & C2 --> D{JSON Schema Validation}
-    end
-    subgraph Execution_Plane["Deterministic Execution Plane"]
-        D -->|Schema Valid| E[MCP Tools & Production APIs]
-        D -->|Invalid / Error| F[Self-Correction & Retry Loop]
-        F --> B
-        E --> G[(Checkpointed State & Audit Log)]
-    end
-    E --> H[Verified Client Output]
+flowchart TD
+    A[Business Request] --> B[Orchestration Layer]
+    B --> C[LLM Reasoning and Planning]
+    C --> D[Structured Output Validation]
+    D --> E{Valid and Authorized?}
+    E -->|Yes| F[Controlled Tools and APIs]
+    E -->|No| G[Retry or Human Review]
+    G --> B
+    F --> H[Execution Result Verification]
+    H --> I[Logs and State Management]
+    I --> J[Business Output]
 ```
 
----
+**Engineering principles**
 
-### 🛠️ Technical Arsenal & Core Competencies
+- Schema validation for structured model outputs.
+- Controlled tool and API execution.
+- Retry strategies and explicit error handling.
+- Human approval for sensitive or consequential operations.
+- Logging, state management, and execution traceability.
+- Automated tests for critical workflows.
 
-<table>
-  <tr>
-    <td width="30%"><strong>🤖 AI Engineering & LLMs</strong></td>
-    <td>
-      <code>LangGraph</code> • <code>LangChain</code> • <code>Multi-Agent Systems</code> • <code>Model Context Protocol (MCP)</code> • <code>RAG Architecture</code> • <code>Tool / Function Calling</code> • <code>Structured JSON Outputs</code> • <code>OpenAI API</code> • <code>Anthropic Claude</code> • <code>Google Gemini</code> • <code>Groq</code> • <code>Prompt Engineering</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>🌐 Full-Stack & APIs</strong></td>
-    <td>
-      <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>FastAPI</code> • <code>Python</code> • <code>Node.js</code> • <code>Tailwind CSS</code> • <code>REST APIs</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Vite</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>🛡️ Enterprise SDLC & QA</strong></td>
-    <td>
-      <code>Playwright</code> • <code>Selenium</code> • <code>Page Object Model (POM)</code> • <code>API Testing</code> • <code>Root-Cause Analysis</code> • <code>Defect Triage</code> • <code>Guidewire PolicyCenter</code> • <code>Agile / Scrum Ceremonies</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>☁️ DevOps & Infrastructure</strong></td>
-    <td>
-      <code>Docker</code> • <code>Git</code> • <code>GitHub Actions (CI/CD)</code> • <code>Vercel</code> • <code>Cloudflare</code> • <code>Railway</code> • <code>Linux / Shell Scripting</code>
-    </td>
-  </tr>
-</table>
+**Relevant technologies:** LangGraph · LangChain · MCP · RAG · LLM APIs · Tool Calling · Python · FastAPI
+
+*These technologies represent my technical toolkit and architecture approach; individual project implementations vary by requirements.*
 
 ---
 
-### 💼 How I Work With Clients
+## Technical Skills
 
-1. **Clear Requirements & Architecture Discovery:** We align on the business outcome, technical constraints, and data contracts before writing a single line of code.
-2. **Milestone-Driven Execution:** Regular updates, live preview environments, and rapid iteration with transparent communication.
-3. **Bulletproof QA & Testing:** Automated test suites (Playwright) built into every web deliverable to prevent regressions.
-4. **Clean Handoff & Cloud Deployment:** Production deployment, environment variable configuration, domain setup, and comprehensive documentation for your team.
+| Domain | Technologies & Capabilities |
+|---|---|
+| AI Engineering | LLM Integration, RAG, Agent Workflows, Tool Calling, Structured Outputs, Prompt Engineering |
+| AI Frameworks | LangGraph, LangChain, MCP |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite |
+| Backend & APIs | Python, FastAPI, Node.js, REST APIs |
+| Data & State | PostgreSQL, Redis |
+| Quality Engineering | Playwright, Selenium, API Testing, Page Object Model, Regression Testing |
+| Enterprise Systems | Guidewire PolicyCenter, Root-Cause Analysis, Defect Triage, Agile/Scrum |
+| DevOps & Deployment | Docker, Git, GitHub Actions, Vercel, Cloudflare, Railway, Linux |
 
 ---
 
-### 📬 Let's Build Something Exceptional
+## Professional Experience
 
-Whether you need a **custom web application**, an **autonomous AI agent workflow**, or **enterprise-grade QA test automation**, I am available for freelance engagements and remote technical roles:
+### Capgemini
+**Enterprise Software Engineering · Guidewire PolicyCenter**
 
-* 🌐 **Corporate Website:** [vstechworks.co.in](https://vstechworks.co.in/)
-* 💼 **LinkedIn:** [linkedin.com/in/vikrant-kulle](https://linkedin.com/in/vikrant-kulle)
-* ✉️ **Direct Email:** [vikrantkulle392000@gmail.com](mailto:vikrantkulle392000@gmail.com)
-* 📞 **Direct Line:** `+91 7038251774`
+Contributed to enterprise insurance software workflows on the Hartford Insurance engagement.
 
-<div align="center">
-  <sub>Built with enterprise rigor & modern engineering standards • © 2026 Vikrant Kulle</sub>
-</div>
+- Supported enterprise application quality and reliability.
+- Worked with structured debugging, defect investigation, and impact analysis.
+- Applied software testing and release-quality practices in an enterprise development environment.
+
+### Custom Software Development & VS Techworks
+**Full-Stack Development · AI Integration · Business Automation**
+
+- Translate business requirements into practical software solutions.
+- Develop and deploy websites, portals, and workflow-oriented applications.
+- Apply automation and testing practices to improve reliability.
+- Work across requirements, implementation, deployment, and handoff.
+
+*For a formal employment resume, add exact employment dates, role titles, and verified achievements to each position.*
+
+---
+
+## My Delivery Process
+
+**01 — Discover**
+
+Understand the business problem, users, success criteria, integrations, and constraints.
+
+**02 — Architect**
+
+Define the solution structure, technology stack, data contracts, and implementation milestones.
+
+**03 — Build**
+
+Develop the application, APIs, automation, and AI integrations required by the use case.
+
+**04 — Validate**
+
+Test core workflows, edge cases, permissions, failure handling, and critical user journeys.
+
+**05 — Deploy & Handoff**
+
+Configure production environments, deploy the solution, document key decisions, and support the handover.
+
+---
+
+## Let's Build Something Useful
+
+Have a business process to automate, an AI idea to validate, or a software product to build?
+
+I can help turn the requirement into a practical, deployable solution.
+
+- **Website:** https://vstechworks.co.in/
+- **LinkedIn:** https://linkedin.com/in/vikrant-kulle
+- **Email:** vikrantkulle392000@gmail.com
+- **Phone:** +91 7038251774
+
+**Available for:** Custom Software Development · AI Integration · Business Process Automation · Test Automation · Technical Consulting
+
+---
+
+<sub>Vikrant Kulle · AI Solutions Engineering & Custom Software Development · 2026</sub>
