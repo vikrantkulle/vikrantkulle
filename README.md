@@ -2,7 +2,7 @@
 
 <!-- WEBSITE HERO BROWSER FRAME -->
 <a href="https://vstechworks.co.in">
-  <img src="assets/hero-header.svg" alt="Vikrant Kulle - AI Solutions Engineer & Custom Software Architect" width="100%" />
+  <img src="assets/hero-header-v2.svg" alt="Vikrant Kulle - AI Solutions Engineer & Custom Software Architect" width="100%" />
 </a>
 
 <br/>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 190" width="100%" height="190">
+  <defs>
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1222"/>
+      <stop offset="100%" stop-color="#070a14"/>
+    </linearGradient>
+    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.6"/>
+    </linearGradient>
+    <style>
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.8; filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.4)); }
+        50% { opacity: 1; filter: drop-shadow(0 0 16px rgba(129, 140, 248, 0.7)); }
+      }
+      @keyframes radarWave {
+        0% { r: 3.5; opacity: 1; }
+        100% { r: 9; opacity: 0; }
+      }
+      .titleText {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+        font-size: 38px;
+        font-weight: 800;
+        letter-spacing: -0.5px;
+        fill: #f8fafc;
+      }
+      .gradientText {
+        fill: url(#textGlow);
+        animation: pulseGlow 4s infinite ease-in-out;
+      }
+      .subText {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        fill: #94a3b8;
+        letter-spacing: 0.3px;
+      }
+      .liveDot { fill: #10b981; }
+      .radar { stroke: #10b981; stroke-width: 1.5; fill: none; animation: radarWave 2s infinite ease-out; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="848" height="188" rx="14" fill="url(#headerBg)" stroke="url(#borderGradient)" stroke-width="1.5"/>
+
+  <!-- Top Browser Bar -->
+  <path d="M 1 14 C 1 7 7 1 14 1 L 836 1 C 843 1 849 7 849 14 L 849 38 L 1 38 Z" fill="#0b0f19"/>
+  <line x1="1" y1="38" x2="849" y2="38" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- macOS Window Dots -->
+  <circle cx="20" cy="19.5" r="5.5" fill="#ef4444"/>
+  <circle cx="38" cy="19.5" r="5.5" fill="#f59e0b"/>
+  <circle cx="56" cy="19.5" r="5.5" fill="#10b981"/>
+
+  <!-- Mock Address Bar -->
+  <rect x="180" y="8" width="350" height="23" rx="6" fill="#172033" stroke="#334155" stroke-width="0.8"/>
+  <text x="355" y="24" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">
+    🔒 https://vikrantkulle.dev/ai-solutions-architect
+  </text>
+
+  <!-- Status Badge -->
+  <g transform="translate(565, 8)">
+    <rect x="0" y="0" width="268" height="23" rx="11.5" fill="#064e3b" fill-opacity="0.4" stroke="#059669" stroke-width="1"/>
+    <circle cx="14" cy="11.5" r="3.5" class="liveDot"/>
+    <circle cx="14" cy="11.5" r="3.5" class="radar"/>
+    <text x="25" y="15.5" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5" font-weight="700">BUILDING &amp; OPEN TO COLLABORATIONS</text>
+  </g>
+
+  <!-- Main Hero Brand Content -->
+  <g transform="translate(30, 85)">
+    <text x="0" y="0" class="titleText">Vikrant Kulle</text>
+    <text x="245" y="0" class="titleText gradientText">✦ AI Solutions Engineer</text>
+  </g>
+
+  <g transform="translate(30, 118)">
+    <text x="0" y="0" class="subText">
+      Turning Complex Business Requirements into Reliable Custom Software, Agentic Workflows &amp; Enterprise Scalability
+    </text>
+  </g>
+
+  <!-- Badges Ribbon inside SVG -->
+  <g transform="translate(30, 142)">
+    <rect x="0" y="0" width="168" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="0.8"/>
+    <text x="84" y="17" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="11" font-weight="600">🤖 Multi-Agent Systems</text>
+
+    <rect x="178" y="0" width="190" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="0.8"/>
+    <text x="273" y="17" text-anchor="middle" fill="#818cf8" font-family="ui-monospace, monospace" font-size="11" font-weight="600">⚡ Model Context Protocol</text>
+
+    <rect x="378" y="0" width="180" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="0.8"/>
+    <text x="468" y="17" text-anchor="middle" fill="#c084fc" font-family="ui-monospace, monospace" font-size="11" font-weight="600">🌐 Next.js &amp; FastAPI</text>
+
+    <rect x="568" y="0" width="220" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="0.8"/>
+    <text x="678" y="17" text-anchor="middle" fill="#34d399" font-family="ui-monospace, monospace" font-size="11" font-weight="600">🛡️ Enterprise SDLC &amp; QA Rigor</text>
+  </g>
+</svg>
